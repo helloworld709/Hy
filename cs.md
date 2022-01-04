@@ -1,8 +1,5 @@
 ---
-title: cs使用
-
-renderNumberedHeading: true
-grammar_cjkRuby: true
+title: cs的使用
 ---
 
 # CS简介
